@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lab-react-lifecycle-networking/static/css/main.abbcf833.css",
+    "main.js": "/lab-react-lifecycle-networking/static/js/main.328e5841.js",
+    "static/js/787.e64b2706.chunk.js": "/lab-react-lifecycle-networking/static/js/787.e64b2706.chunk.js",
+    "static/media/andrew-s-unsplash.jpg": "/lab-react-lifecycle-networking/static/media/andrew-s-unsplash.be213ed907134c3d5f1f.jpg",
+    "index.html": "/lab-react-lifecycle-networking/index.html",
+    "main.abbcf833.css.map": "/lab-react-lifecycle-networking/static/css/main.abbcf833.css.map",
+    "main.328e5841.js.map": "/lab-react-lifecycle-networking/static/js/main.328e5841.js.map",
+    "787.e64b2706.chunk.js.map": "/lab-react-lifecycle-networking/static/js/787.e64b2706.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abbcf833.css",
+    "static/js/main.328e5841.js"
+  ]
+}
